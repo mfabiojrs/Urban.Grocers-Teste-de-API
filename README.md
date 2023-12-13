@@ -10,6 +10,8 @@ API do Urban.Grocers: documentada no Swagger e apiDoc
 -  Ler a documentação da API
 -  Criar os primeiros testes de API
 
+<br clear="both">
+
 ### Requisitos do projetos
 - [Requisitos para o back-end do Urban.Grocers](https://github.com/mfabiojrs/Urban.Grocers-Teste-de-API/blob/main/requisito/Requisitos_para_o_back-end_do_Urban.grocers.pdf "Requisitos para o back-end do Urban.Grocers")
 - [Requisitos para calcular a entrega por serviço de entrega](https://github.com/mfabiojrs/Urban.Grocers-Teste-de-API/blob/main/requisito/Os_Requisitos_para_Calcular_a_Entrega_via_Servios_de_Entrega.pdf "Requisitos para calcular a entrega por serviço de entrega")
