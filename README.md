@@ -1,10 +1,9 @@
 ### Projeto 3º Urban.Grocers - Teste de API
+API do Urban.Grocers: documentada no Swagger e apiDoc
 
 <br clear="both">
 
 ### Visão geral
-API do Urban.Grocers: documentada no Swagger e apiDoc
-
 -  Criar e enviar solicitações à API via Postman
 -  Criar relatórios de bugs
 -  Ler a documentação da API
